@@ -34,7 +34,6 @@ Computer Software Engineering student specializing in Quantum Information and Qu
 * **[Snake AI with VQC](https://github.com/dogemie/snake-ai-pennylane)** — Hybrid Quantum-Classical Reinforcement Learning (2025)
 
 ## 🧑‍🏫 Teaching Experience
-* **AI Literature Review Seminar** — AI Academic Club "HAI", Hanyang University (2023)
 * **Python Language Mentor** — Programming Academic Club "FORIF", Hanyang University (2022)
 * **C Language Mentor** — Algorithm Academic Club "Aloha", Hanyang University (2022)
 
