@@ -39,11 +39,11 @@ Computer Software Engineering student specializing in Quantum Information and Qu
 
 ## 🛠️ Skills
 * **Programming & Frameworks:** Python, C/C++, Java, PyTorch, PennyLane, Qiskit, Verilog
-* **Languages:** Korean (Native), English (TOEIC 765, TEPS 326)
+* **Languages:** Korean (Native), English
 * **Certifications:** Network Manager Certificate (Level 2)
 
 ## 🌟 Other Experience
-* **KAIST-MIT Quantum Winter School** (Jan. 2026)
+* **KAIST-MIT Quantum Winter School** @ KAIST (Jan. 2026)
 * **Science Communicator Volunteer** @ Gwacheon National Science Museum (Jul. 2025)
 * **Industry Professional Course** @ Seoul Quantum Campus (Dec. 2024)
 * **2023 Quantum Information Hackathon** (Jun. 2023)
