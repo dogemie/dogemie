@@ -1,5 +1,5 @@
 # Dogyeom Kim
-📧 dogyeom74@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/dogyeom-kim) | 💻 [GitHub](https://github.com/dogemie)
+📧 dogyeom74@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/dogemie) | 💻 [GitHub](https://github.com/dogemie)
 
 ## 👤 Personal Profile
 Computer Software Engineering student specializing in Quantum Information and Quantum Machine Learning. Experienced in designing hybrid quantum-classical architectures and optimizing quantum circuits. Adept at bridging classical AI techniques with quantum algorithms to solve complex computational challenges.
