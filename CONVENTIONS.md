@@ -43,3 +43,7 @@
 * **`legacy-`** : 과거에 진행하다가 중단되었거나, 더 이상 유지보수하지 않는(Deprecated) 프로젝트
   * *ex) `legacy-old-qec-model`*
   * *ex) `legacy-vqc-test-env`*
+
+* **`personal-`** : 개인적인 일상, 자산 관리, 차량 유지보수, 개인 일정 등 라이프스타일 및 자가 관리 시스템
+  * *ex) `personal-management-system`*
+  * *ex) `personal-lifelog-hub`*
