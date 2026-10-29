@@ -5,6 +5,7 @@
 Computer Software Engineering student specializing in Quantum Information and Quantum System. Experienced in designing hybrid quantum-classical architectures and optimizing quantum circuits. Adept at bridging classical AI techniques with quantum algorithms to solve complex computational challenges.
 
 ## 🎓 Education
+* **KAIST** — Integrated Master’s and Ph.D. Program in Graduate School of Quantum Science And Technology (Aug. 2026 – Current)
 * **Hanyang University** — B.S. in Department of Computer Software (Mar. 2021 – Aug. 2026)
 * **Daejeon Daeshin High School** (2018 – 2021)
 
